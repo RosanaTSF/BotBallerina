@@ -13,7 +13,7 @@
 
 <p align="center">
   <h3 align="center">🩰 BotBallerina - Assistente Virtual para Aulas de Ballet Online</
-  Olá, sou bot, uma professora de ballet virtual. Irei interagir com os alunos, fornecer dicas de técnica, corrigir posturas e até gerar planos de treinamento baseados no nível de cada aluno. 
+  Olá, sou uma bot, sua nova professora de ballet virtual. Irei interagir com os alunos, fornecer dicas de técnica, corrigir posturas e até gerar planos de treinamento baseados no nível e preferência de cada aluno. 
   Nossas aulas serão ministradas ao som de piano e clássicos da Disney.
 </p>
 
@@ -32,7 +32,7 @@
 
 ## 💃 Níveis de Ballet
 
-Existem diferentes níveis de aprendizagem no ballet, que serão usados para adaptar o conteúdo das aulas, mas todos poderão fazer parte da montagem de coreografias e até se apresentar em futuros festivais.
+Existem diferentes níveis de aprendizagem no Ballet, que serão usados para adaptar o conteúdo das aulas, mas todos poderão fazer parte da montagem das coreografias e até se apresentar em futuros Festivais de Dança.
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ Existem diferentes níveis de aprendizagem no ballet, que serão usados para ada
       <img src=".github/assets/logomenina.png" width="50%" height="50%">
     </td>
     <td><strong>Novato</strong></td>
-    <td>Alunos que estão iniciando o ballet. Foco em movimentos básicos e postura.</td>
+    <td>Alunos que estão iniciando o Ballet. Foco em movimentos básicos e postura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -81,19 +81,18 @@ Existem diferentes níveis de aprendizagem no ballet, que serão usados para ada
 
 ---
 
-## 🏋️ Tipos de Exercícios
+## 🏋️ Tipos de Treinos
 
 Cada bailarino pode escolher os tipos de exercícios preferidos ou que se sinta mais necessidade de melhorar, como: 
 
 | **Imagem**                                                       | **Tipo de Exercício** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Barra**             | Exercícios realizados na barra, focados em técnica e postura, como pliés e tendus.                              |
-| <img src=".github/assets/logomenino.png" width="50%" height="50%">     | **Solo**              | Exercícios de solo para melhorar a força, flexibilidade e a coordenação dos movimentos.                         |
-| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Saltos**            | Exercícios focados no aumento de salto e na correção de postura durante o movimento.                             |
-| <img src=".github/assets/logomenino.png" width="50%" height="50%"> | **Alongamento**      | Exercícios de alongamento para melhorar a flexibilidade e prevenir lesões.                                       |
-| <img src=".github/assets/logomenina.png" width="50%" height="50%">   | **Cardio**            | Exercícios cardiovasculares, como dança aeróbica, que ajudam a melhorar a resistência e a forma física geral.    |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Exercícios de Barra**             | Trabalhos na barra, essenciais para fortalecer a postura e técnica. Inclui pliés, tendus e relevés.                               |
+| <img src=".github/assets/logomenino.png" width="50%" height="50%">     | **Exercícios de Solo**              | Trabalhos no solo para aprimorar a força, flexibilidade e fluidez. Inclui rond de jambe e adágios.                         |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Saltos e Saltos de Plié**            | Foco no aumento de altura e controle durante os saltos, como o "sauté", "assemblé" e "jeté", mantendo a postura correta.                             |
+| <img src=".github/assets/logomenino.png" width="50%" height="50%"> | **Alongamento e Flexibilidade**      | Focado na flexibilidade das pernas, coluna e tornozelos. Inclui alongamentos como "passe" e "splits" para melhorar a amplitude de movimento.                                       |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">   | **Ritmos e Coordenação**            | Trabalhos com diferentes ritmos, como o "pas de bourrée", "pirouettes" e variações, para melhorar o controle e a musicalidade no movimento.    |
 
----
 
 ## 🎯 Requisitos:
 

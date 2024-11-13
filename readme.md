@@ -81,9 +81,9 @@ Existem diferentes níveis de aprendizagem no Ballet, que serão usados para ada
 
 ---
 
-## Cada bailarino pode escolher os tipos de exercícios preferidos ou que se sinta mais necessidade de melhorar, como: 
+## Todos os bailarinos serão formados em todas as modalidades, podendo treinar mais intensamente em algumas que sentir mais necessidade oiu preferência.
 
-|                                                        | **Tipo** | **Descrição**                                                                                                   |
+|                                                        | **Modalidades** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
 | <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Exercícios de Barra**             | Trabalhos na barra, essenciais para fortalecer a postura e técnica. Inclui pliés, tendus e relevés.                               |
 | <img src=".github/assets/logomenino.png" width="50%" height="50%">     | **Exercícios de Solo**              | Trabalhos no solo para aprimorar a força, flexibilidade e fluidez. Inclui rond de jambe e adágios.                         |

@@ -81,7 +81,7 @@ Existem diferentes níveis de aprendizagem no Ballet, que serão usados para ada
 
 ---
 
-## Todos os bailarinos serão formados em todas as modalidades, podendo treinar mais intensamente em algumas que sentir mais necessidade oiu preferência.
+## Todos os bailarinos serão formados em todas as modalidades, podendo treinar mais intensamente em algumas que sentir mais necessidade, segurança e preferência.
 
 |                                                        | **Modalidades** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |

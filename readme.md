@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300px" src=".github/assets/logo_2.png">
+    <img width="300px" src=".github/assets/logomenina.png">
 </p>
 
 <p align="center">
@@ -47,21 +47,21 @@ A primeira personalização do bot é o nível de habilidade do aluno. Existem d
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/novato.jpg" width="50%" height="50%">
+      <img src=".github/assets/logomenina.png" width="50%" height="50%">
     </td>
     <td><strong>Novato</strong></td>
     <td>Alunos que estão iniciando o ballet. Foco em movimentos básicos e postura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/intermediario.jpg" width="50%" height="50%">
+      <img src=".github/assets/logomenino.png" width="50%" height="50%">
     </td>
     <td><strong>Intermediário</strong></td>
     <td>Alunos com alguma experiência, já dominam o básico e estão prontos para progressões mais complexas.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/avancado.jpg" width="50%" height="50%">
+      <img src=".github/assets/logomenina.png" width="50%" height="50%">
     </td>
     <td><strong>Avançado</strong></td>
     <td>Alunos experientes, que realizam movimentos e combinações mais difíceis, com foco na fluidez e técnica apurada.</td>
@@ -77,10 +77,10 @@ A primeira personalização do bot é o nível de habilidade do aluno. Existem d
 O segundo fator que o bot levará em consideração é a frequência de aulas do aluno. Isso ajudará o bot a adaptar as sugestões de treino e progressão de acordo com o tempo disponível para praticar:
 
 | **Imagem**                                                     | **Frequência de Aulas** | **Plano de Aulas Sugerido** |
-| -------------------------------------------------------------- | ---------------------- | --------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 vez por semana        | Aulas leves, focadas em postura e flexibilidade. |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 2-3 vezes por semana    | Aulas de técnica combinada com alongamento e força. |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 4-5 vezes por semana    | Treinos intensivos com foco em técnicas avançadas e performance. |
+| ---------------------------------------------------------------- | ---------------------- | --------------------------- |
+| <img src=".github/assets/logomenina.png" width="50" height="50"> | 1 vez por semana        | Aulas leves, focadas em postura e flexibilidade. |
+| <img src=".github/assets/logomenino.png" width="50" height="50"> | 2-3 vezes por semana    | Aulas de técnica combinada com alongamento e força. |
+| <img src=".github/assets/logomenina.png" width="50" height="50"> | 4-5 vezes por semana    | Treinos intensivos com foco em técnicas avançadas e performance. |
 
 - **Leve**: Aulas focadas em flexibilidade, posturas e movimentos básicos.
 - **Intermediário**: Aulas que combinam técnica, força e fluidez.
@@ -94,11 +94,11 @@ A terceira consideração é sobre os tipos de exercícios preferidos ou necess�
 
 | **Imagem**                                                       | **Tipo de Exercício** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/barre.png" width="50%" height="50%">    | **Barra**             | Exercícios realizados na barra, focados em técnica e postura, como pliés e tendus.                              |
-| <img src=".github/assets/solo.png" width="50%" height="50%">     | **Solo**              | Exercícios de solo para melhorar a força, flexibilidade e a coordenação dos movimentos.                         |
-| <img src=".github/assets/salto.png" width="50%" height="50%">    | **Saltos**            | Exercícios focados no aumento de salto e na correção de postura durante o movimento.                             |
-| <img src=".github/assets/alongamento.png" width="50%" height="50%"> | **Alongamento**      | Exercícios de alongamento para melhorar a flexibilidade e prevenir lesões.                                       |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**            | Exercícios cardiovasculares, como dança aeróbica, que ajudam a melhorar a resistência e a forma física geral.    |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Barra**             | Exercícios realizados na barra, focados em técnica e postura, como pliés e tendus.                              |
+| <img src=".github/assets/logomenino.png" width="50%" height="50%">     | **Solo**              | Exercícios de solo para melhorar a força, flexibilidade e a coordenação dos movimentos.                         |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">    | **Saltos**            | Exercícios focados no aumento de salto e na correção de postura durante o movimento.                             |
+| <img src=".github/assets/logomenino.png" width="50%" height="50%"> | **Alongamento**      | Exercícios de alongamento para melhorar a flexibilidade e prevenir lesões.                                       |
+| <img src=".github/assets/logomenina.png" width="50%" height="50%">   | **Cardio**            | Exercícios cardiovasculares, como dança aeróbica, que ajudam a melhorar a resistência e a forma física geral.    |
 
 ---
 

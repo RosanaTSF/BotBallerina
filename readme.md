@@ -81,9 +81,7 @@ Existem diferentes níveis de aprendizagem no Ballet, que serão usados para ada
 
 ---
 
-## 🏋️ Tipos de Treinos
-
-Cada bailarino pode escolher os tipos de exercícios preferidos ou que se sinta mais necessidade de melhorar, como: 
+## Cada bailarino pode escolher os tipos de exercícios preferidos ou que se sinta mais necessidade de melhorar, como: 
 
 |                                                        | **Tipo** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |

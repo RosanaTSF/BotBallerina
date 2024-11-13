@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <h3 align="center">🩰 BotBallerina - Assistente Virtual para Aulas de Ballet Online</h3>
-Este projeto visa criar um bot de assistente virtual para uma professora de ballet, focado em oferecer suporte durante as aulas online. O bot será capaz de interagir com os alunos, fornecer dicas de técnica, corrigir posturas e até gerar planos de treinamento baseados no nível de cada aluno.
-O projeto será desenvolvido com boas práticas de prompt engineering, utilizando IA para uma experiência de aprendizado mais interativa e personalizada.
+  <h3 align="center">🩰 BotBallerina - Assistente Virtual para Aulas de Ballet Online</
+  Olá, sou bot, uma professora de ballet virtual. Irei interagir com os alunos, fornecer dicas de técnica, corrigir posturas e até gerar planos de treinamento baseados no nível de cada aluno. 
+  Nossas aulas serão ministradas ao som de piano e clássicos da Disney.
 </p>
 
 ## 📋 Índice
@@ -30,15 +30,9 @@ O projeto será desenvolvido com boas práticas de prompt engineering, utilizand
 
 ---
 
-## 📝 Introdução
-
-Este projeto busca criar um assistente virtual personalizado para uma professora de ballet, com o objetivo de ajudar a gerenciar aulas online, oferecer feedbacks sobre o desempenho dos alunos, além de recomendar exercícios específicos para o nível de cada um. O bot terá um sistema inteligente de respostas que simula uma interação com um instrutor experiente.
-
----
-
 ## 💃 Níveis de Ballet
 
-A primeira personalização do bot é o nível de habilidade do aluno. Existem diferentes níveis de aprendizagem no ballet, que serão usados para adaptar o conteúdo das aulas:
+Existem diferentes níveis de aprendizagem no ballet, que serão usados para adaptar o conteúdo das aulas, mas todos poderão fazer parte da montagem de coreografias e até se apresentar em futuros festivais.
 
 <table>
   <tr>
@@ -69,13 +63,11 @@ A primeira personalização do bot é o nível de habilidade do aluno. Existem d
   </tr>
 </table>
 
-> **Nota:** Escolha o nível que melhor descreve o aluno para que o bot forneça dicas e correções mais eficazes.
+> **Nota:** Escolha o nível básico, caso você seja iniciante e vá aumentando o seu ritmo de treino e intensidade no seu rítmo. 
 
 ---
 
 ## 📅 Frequência de Aulas
-
-O segundo fator que o bot levará em consideração é a frequência de aulas do aluno. Isso ajudará o bot a adaptar as sugestões de treino e progressão de acordo com o tempo disponível para praticar:
 
 | **Imagem**                                                     | **Frequência de Aulas** | **Plano de Aulas Sugerido** |
 | ---------------------------------------------------------------- | ---------------------- | --------------------------- |
@@ -91,7 +83,7 @@ O segundo fator que o bot levará em consideração é a frequência de aulas do
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira consideração é sobre os tipos de exercícios preferidos ou necessários para cada nível de aluno. O bot adaptará os treinos de acordo com as preferências e os objetivos de cada um:
+Cada bailarino pode escolher os tipos de exercícios preferidos ou que se sinta mais necessidade de melhorar, como: 
 
 | **Imagem**                                                       | **Tipo de Exercício** | **Descrição**                                                                                                   |
 | ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -103,24 +95,10 @@ A terceira consideração é sobre os tipos de exercícios preferidos ou necess�
 
 ---
 
-## 🛠️ Regras de negócio
+## 🎯 Requisitos:
 
-1. **Identifique o nível do aluno** consultando a seção de níveis de ballet.
-2. **Determine a frequência de aulas disponíveis** e selecione o plano de treino correspondente.
-3. **Escolha os tipos de exercícios preferidos** e o bot adaptará o treino de acordo com o nível de habilidade e disponibilidade do aluno.
-4. Use o prompt para gerar um plano de treino personalizado para cada aluno.
+Roupas, acessórios e sapatilhas adequadas.
+Garrafas e toalhas individuais.
 
----
+Por fim, todo início e final das aulas, haverá alongamento e uma breve roda de conversa.
 
-## 📖 Material de Apoio
-
-Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
-
-- [Fundamentos de Engenharia de Prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
-- [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
-
----
-
-## 🎯 Prompt de Resposta Proposto
-
-O bot irá gerar um prompt baseado nas informações fornecidas pelo aluno, incluindo o nível de habilidade, a frequência de aulas e os tipos de exercício preferidos. Com isso, o plano de treino será idealmente ajustado para cada usuário.

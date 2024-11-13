@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
-O projeto deve ser feito utilizando as boas práticas de prompt engineer.
+  <h3 align="center">🩰 BotBallerina - Assistente Virtual para Aulas de Ballet Online</h3>
+Este projeto visa criar um bot de assistente virtual para uma professora de ballet, focado em oferecer suporte durante as aulas online. O bot será capaz de interagir com os alunos, fornecer dicas de técnica, corrigir posturas e até gerar planos de treinamento baseados no nível de cada aluno.
+O projeto será desenvolvido com boas práticas de prompt engineering, utilizando IA para uma experiência de aprendizado mais interativa e personalizada.
 </p>
 
 ## 📋 Índice
 
 - [📋 Índice](#-índice)
 - [📝 Introdução](#-introdução)
-- [💪 Biotipos Corporais](#-biotipos-corporais)
-- [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
+- [💃 Níveis de Ballet](#-níveis-de-ballet)
+- [📅 Frequência de Aulas](#-frequência-de-aulas)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
@@ -31,83 +31,83 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 
 ## 📝 Introdução
 
-Este projeto visa criar um assistente de personal trainer automatizado que ajuda a gerar treinos personalizados. O usuário fornecerá informações como o biotipo corporal, a quantidade de dias disponíveis para treinar na semana e o tipo de exercício preferido, e o assistente gerará um plano de treino ideal com base nessas informações.
+Este projeto busca criar um assistente virtual personalizado para uma professora de ballet, com o objetivo de ajudar a gerenciar aulas online, oferecer feedbacks sobre o desempenho dos alunos, além de recomendar exercícios específicos para o nível de cada um. O bot terá um sistema inteligente de respostas que simula uma interação com um instrutor experiente.
 
 ---
 
-## 💪 Biotipos Corporais
+## 💃 Níveis de Ballet
 
-A primeira regra para personalizar o treino é determinar o biotipo corporal do usuário. Existem três biotipos principais:
+A primeira personalização do bot é o nível de habilidade do aluno. Existem diferentes níveis de aprendizagem no ballet, que serão usados para adaptar o conteúdo das aulas:
 
 <table>
   <tr>
     <th>Imagem</th>
-    <th>Biotipo</th>
+    <th>Nível</th>
     <th>Descrição</th>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
+      <img src=".github/assets/novato.jpg" width="50%" height="50%">
     </td>
-    <td><strong>Ectomorfo</strong></td>
-    <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
+    <td><strong>Novato</strong></td>
+    <td>Alunos que estão iniciando o ballet. Foco em movimentos básicos e postura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
+      <img src=".github/assets/intermediario.jpg" width="50%" height="50%">
     </td>
-    <td><strong>Mesomorfo</strong></td>
-    <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
+    <td><strong>Intermediário</strong></td>
+    <td>Alunos com alguma experiência, já dominam o básico e estão prontos para progressões mais complexas.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
+      <img src=".github/assets/avancado.jpg" width="50%" height="50%">
     </td>
-    <td><strong>Endomorfo</strong></td>
-    <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
+    <td><strong>Avançado</strong></td>
+    <td>Alunos experientes, que realizam movimentos e combinações mais difíceis, com foco na fluidez e técnica apurada.</td>
   </tr>
 </table>
 
-> **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
+> **Nota:** Escolha o nível que melhor descreve o aluno para que o bot forneça dicas e correções mais eficazes.
 
 ---
 
-## 📅 Dias Disponíveis para Treino
+## 📅 Frequência de Aulas
 
-A segunda regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
+O segundo fator que o bot levará em consideração é a frequência de aulas do aluno. Isso ajudará o bot a adaptar as sugestões de treino e progressão de acordo com o tempo disponível para praticar:
 
-| **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
-| -------------------------------------------------------------- | ------------------- | --------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
+| **Imagem**                                                     | **Frequência de Aulas** | **Plano de Aulas Sugerido** |
+| -------------------------------------------------------------- | ---------------------- | --------------------------- |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 vez por semana        | Aulas leves, focadas em postura e flexibilidade. |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 2-3 vezes por semana    | Aulas de técnica combinada com alongamento e força. |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 4-5 vezes por semana    | Treinos intensivos com foco em técnicas avançadas e performance. |
 
-- **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
-- **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
-- **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
+- **Leve**: Aulas focadas em flexibilidade, posturas e movimentos básicos.
+- **Intermediário**: Aulas que combinam técnica, força e fluidez.
+- **Avançado**: Aulas intensivas com combinação de exercícios complexos e preparação para apresentações.
 
 ---
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A terceira consideração é sobre os tipos de exercícios preferidos ou necessários para cada nível de aluno. O bot adaptará os treinos de acordo com as preferências e os objetivos de cada um:
 
-| **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
-| ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| **Imagem**                                                       | **Tipo de Exercício** | **Descrição**                                                                                                   |
+| ---------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <img src=".github/assets/barre.png" width="50%" height="50%">    | **Barra**             | Exercícios realizados na barra, focados em técnica e postura, como pliés e tendus.                              |
+| <img src=".github/assets/solo.png" width="50%" height="50%">     | **Solo**              | Exercícios de solo para melhorar a força, flexibilidade e a coordenação dos movimentos.                         |
+| <img src=".github/assets/salto.png" width="50%" height="50%">    | **Saltos**            | Exercícios focados no aumento de salto e na correção de postura durante o movimento.                             |
+| <img src=".github/assets/alongamento.png" width="50%" height="50%"> | **Alongamento**      | Exercícios de alongamento para melhorar a flexibilidade e prevenir lesões.                                       |
+| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**            | Exercícios cardiovasculares, como dança aeróbica, que ajudam a melhorar a resistência e a forma física geral.    |
 
 ---
 
 ## 🛠️ Regras de negócio
 
-1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+1. **Identifique o nível do aluno** consultando a seção de níveis de ballet.
+2. **Determine a frequência de aulas disponíveis** e selecione o plano de treino correspondente.
+3. **Escolha os tipos de exercícios preferidos** e o bot adaptará o treino de acordo com o nível de habilidade e disponibilidade do aluno.
+4. Use o prompt para gerar um plano de treino personalizado para cada aluno.
 
 ---
 
@@ -115,9 +115,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
 
-- [Fundamentos de Engenharia de prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
+- [Fundamentos de Engenharia de Prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
 - [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
 
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+O bot irá gerar um prompt baseado nas informações fornecidas pelo aluno, incluindo o nível de habilidade, a frequência de aulas e os tipos de exercício preferidos. Com isso, o plano de treino será idealmente ajustado para cada usuário.

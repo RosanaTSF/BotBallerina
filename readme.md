@@ -1,5 +1,6 @@
 <p align="center">
     <img width="300px" src=".github/assets/logomenina.png">
+    <img width="300px" src=".github/assets/logomenino.png">
 </p>
 
 <p align="center">
